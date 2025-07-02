@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square" alt="Sponsor">
+  </a>
+</p>
 # 🎮 Gaming Website – Unigine Theme
 
 This is a simple, responsive gaming website built with HTML, CSS & JavaScript.
