@@ -52,7 +52,7 @@ https://yourusername.github.io/gaming-website/
 
 ## 🧙‍♂️ **Credits**
 - Starter design idea by [codewithsadee](https://github.com/codewithsadee)
-- Customized & deployed by *Me* 🤘
+- Customized & deployed by *You* 🤘
 
 ---
 
