@@ -1,0 +1,5 @@
+body { margin:0; font-family: sans-serif; background:#121212; color:#fff; }
+header, footer { background:#1e1e1e; padding:1em; text-align:center; }
+a { color:#fff; text-decoration:none; margin:0 1em; }
+.hero { text-align:center; padding:2em; }
+.hero-banner img { max-width:100%; height:auto; }
